@@ -1,0 +1,14 @@
+.user {
+  padding: 10px;
+  background: lightseagreen;
+  color: black;
+  border: 2px solid blanchedalmond;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+img {
+  width: 100%;
+}
